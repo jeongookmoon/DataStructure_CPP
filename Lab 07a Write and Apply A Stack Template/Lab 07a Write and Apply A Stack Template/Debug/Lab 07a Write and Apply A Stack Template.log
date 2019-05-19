@@ -1,0 +1,28 @@
+﻿Build started 2015-12-10 오후 5:38:54.
+     1>Project "C:\Users\Q\Desktop\NewRoad\Lab 07a Write and Apply A Stack Template\Lab 07a Write and Apply A Stack Template\Lab 07a Write and Apply A Stack Template.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MoonJeongOokLab07ACalculator7.cpp
+         MoonJeongOokLab07ACalculator7.cpp
+     1>c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07acalculator7.cpp(38): warning C4101: 'operand1': unreferenced local variable
+     1>c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07acalculator7.cpp(38): warning C4101: 'operand2': unreferenced local variable
+     1>c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07astack.h(55): warning C4018: '<': signed/unsigned mismatch
+         c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07astack.h(51): note: while compiling class template member function 'Stack<double>::Stack(const Stack<double> &)'
+         c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07acalculator7.cpp(56): note: see reference to function template instantiation 'Stack<double>::Stack(const Stack<double> &)' being compiled
+         c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07acalculator7.cpp(39): note: see reference to class template instantiation 'Stack<double>' being compiled
+     1>c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07astack.h(115): warning C4018: '<': signed/unsigned mismatch
+         c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07astack.h(109): note: while compiling class template member function 'void Stack<double>::doubleCapacity(void)'
+         c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07astack.h(142): note: see reference to function template instantiation 'void Stack<double>::doubleCapacity(void)' being compiled
+         c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07astack.h(51): note: while compiling class template member function 'Stack<double>::Stack(const Stack<double> &)'
+         c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07acalculator7.cpp(56): note: see reference to function template instantiation 'Stack<double>::Stack(const Stack<double> &)' being compiled
+     1>c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07astack.h(130): warning C4018: '<': signed/unsigned mismatch
+         c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07astack.h(124): note: while compiling class template member function 'void Stack<double>::halveCapacity(void)'
+         c:\users\q\desktop\newroad\lab 07a write and apply a stack template\lab 07a write and apply a stack template\moonjeongooklab07astack.h(163): note: see reference to function template instantiation 'void Stack<double>::halveCapacity(void)' being compiled
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Q\Desktop\NewRoad\Lab 07a Write and Apply A Stack Template\Debug\Lab 07a Write and Apply A Stack Template.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Q\Desktop\NewRoad\Lab 07a Write and Apply A Stack Template\Debug\Lab 07a Write and Apply A Stack Template.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Q\Desktop\NewRoad\Lab 07a Write and Apply A Stack Template\Debug\Lab 07a Write and Apply A Stack Template.lib" /MACHINE:X86 Debug\MoonJeongOokLab07ACalculator7.obj
+         LINK : C:\Users\Q\Desktop\NewRoad\Lab 07a Write and Apply A Stack Template\Debug\Lab 07a Write and Apply A Stack Template.exe not found or not built by the last incremental link; performing full link
+         Lab 07a Write and Apply A Stack Template.vcxproj -> C:\Users\Q\Desktop\NewRoad\Lab 07a Write and Apply A Stack Template\Debug\Lab 07a Write and Apply A Stack Template.exe
+     1>Done Building Project "C:\Users\Q\Desktop\NewRoad\Lab 07a Write and Apply A Stack Template\Lab 07a Write and Apply A Stack Template\Lab 07a Write and Apply A Stack Template.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.30

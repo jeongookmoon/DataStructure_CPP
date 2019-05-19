@@ -1,0 +1,29 @@
+﻿Build started 2015-12-13 오전 10:38:29.
+     1>Project "C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Lab05b Using A Data Structure As A Data Member\Lab05b Using A Data Structure As A Data Member.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MoonJeongOokLab05bDvcSchedule5b.cpp
+         MoonJeongOokLab05bDvcSchedule5b.cpp
+     1>MoonJeongOokLab05bDvcSchedule5b.cpp(179): warning C4018: '<': signed/unsigned mismatch
+     1>MoonJeongOokLab05bDvcSchedule5b.cpp(205): warning C4018: '<': signed/unsigned mismatch
+     1>MoonJeongOokLab05bDvcSchedule5b.cpp(206): warning C4018: '<': signed/unsigned mismatch
+     1>MoonJeongOokLab05bDvcSchedule5b.cpp(221): warning C4018: '<': signed/unsigned mismatch
+     1>MoonJeongOokLab05bDvcSchedule5b.cpp(225): warning C4018: '<': signed/unsigned mismatch
+     1>MoonJeongOokLab05bDvcSchedule5b.cpp(234): warning C4018: '<': signed/unsigned mismatch
+     1>MoonJeongOokLab05bDvcSchedule5b.cpp(238): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\MoonJeongOokLab04aDynamicArray.h(49): warning C4018: '<': signed/unsigned mismatch
+         c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\MoonJeongOokLab04aDynamicArray.h(43): note: while compiling class template member function 'DynamicArray<CourseStruct>::DynamicArray(int)'
+         MoonJeongOokLab05bDvcSchedule5b.cpp(247): note: see reference to function template instantiation 'DynamicArray<CourseStruct>::DynamicArray(int)' being compiled
+         MoonJeongOokLab05bDvcSchedule5b.cpp(27): note: see reference to class template instantiation 'DynamicArray<CourseStruct>' being compiled
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Release\Lab05b Using A Data Structure As A Data Member.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Release\Lab05b Using A Data Structure As A Data Member.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Release\Lab05b Using A Data Structure As A Data Member.lib" /MACHINE:X86 /SAFESEH Release\MoonJeongOokLab05bDvcSchedule5b.obj
+         Generating code
+         20 of 267 functions ( 7.5%) were compiled, the rest were copied from previous compilation.
+           17 functions were new in current compilation
+           50 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         Lab05b Using A Data Structure As A Data Member.vcxproj -> C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Release\Lab05b Using A Data Structure As A Data Member.exe
+     1>Done Building Project "C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Lab05b Using A Data Structure As A Data Member\Lab05b Using A Data Structure As A Data Member.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.11

@@ -1,0 +1,24 @@
+﻿Build started 2015-09-30 오후 12:22:50.
+     1>Project "C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Lab05b Using A Data Structure As A Data Member\Lab05b Using A Data Structure As A Data Member.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MoonJeongOokLab05bDvcSchedule5b.cpp
+         MoonJeongOokLab05bDvcSchedule5b.cpp
+     1>c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab05bdvcschedule5b.cpp(180): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab05bdvcschedule5b.cpp(202): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab05bdvcschedule5b.cpp(203): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab05bdvcschedule5b.cpp(218): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab05bdvcschedule5b.cpp(222): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab05bdvcschedule5b.cpp(231): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab05bdvcschedule5b.cpp(235): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab04adynamicarray.h(49): warning C4018: '<': signed/unsigned mismatch
+         c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab04adynamicarray.h(43): note: while compiling class template member function 'DynamicArray<CourseStruct>::DynamicArray(int)'
+         c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab05bdvcschedule5b.cpp(244): note: see reference to function template instantiation 'DynamicArray<CourseStruct>::DynamicArray(int)' being compiled
+         c:\users\q\desktop\newroad\lab05b using a data structure as a data member\lab05b using a data structure as a data member\moonjeongooklab05bdvcschedule5b.cpp(27): note: see reference to class template instantiation 'DynamicArray<CourseStruct>' being compiled
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Debug\Lab05b Using A Data Structure As A Data Member.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Debug\Lab05b Using A Data Structure As A Data Member.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Debug\Lab05b Using A Data Structure As A Data Member.lib" /MACHINE:X86 Debug\MoonJeongOokLab05bDvcSchedule5b.obj
+         Lab05b Using A Data Structure As A Data Member.vcxproj -> C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Debug\Lab05b Using A Data Structure As A Data Member.exe
+     1>Done Building Project "C:\Users\Q\Desktop\NewRoad\Lab05b Using A Data Structure As A Data Member\Lab05b Using A Data Structure As A Data Member\Lab05b Using A Data Structure As A Data Member.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.82

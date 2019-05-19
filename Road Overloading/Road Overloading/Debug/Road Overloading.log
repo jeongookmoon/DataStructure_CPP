@@ -1,0 +1,18 @@
+﻿Build started 2015-09-07 오후 9:27:50.
+     1>Project "C:\Users\Q\Desktop\NewRoad\Road Overloading\Road Overloading\Road Overloading.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MoonJeongOokLab02bRoadDriver.cpp
+         MoonJeongOokLab02bRoadDriver.cpp
+     1>c:\users\q\desktop\newroad\road overloading\road overloading\moonjeongooklab02broaddriver.cpp(102): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\q\desktop\newroad\road overloading\road overloading\moonjeongooklab02broad.h(25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+         c:\users\q\desktop\newroad\road overloading\road overloading\moonjeongooklab02broad.h(24): note: while compiling class template member function 'Road<int>::Road(void)'
+         c:\users\q\desktop\newroad\road overloading\road overloading\moonjeongooklab02broaddriver.cpp(79): note: see reference to function template instantiation 'Road<int>::Road(void)' being compiled
+         c:\users\q\desktop\newroad\road overloading\road overloading\moonjeongooklab02broaddriver.cpp(79): note: see reference to class template instantiation 'Road<int>' being compiled
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Q\Desktop\NewRoad\Road Overloading\Debug\Road Overloading.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Q\Desktop\NewRoad\Road Overloading\Debug\Road Overloading.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Q\Desktop\NewRoad\Road Overloading\Debug\Road Overloading.lib" /MACHINE:X86 Debug\MoonJeongOokLab02bRoadDriver.obj
+         Road Overloading.vcxproj -> C:\Users\Q\Desktop\NewRoad\Road Overloading\Debug\Road Overloading.exe
+     1>Done Building Project "C:\Users\Q\Desktop\NewRoad\Road Overloading\Road Overloading\Road Overloading.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.24

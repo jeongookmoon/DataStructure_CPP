@@ -1,0 +1,18 @@
+﻿Build started 2015-12-02 오후 11:23:23.
+     1>Project "C:\Users\Q\Desktop\NewRoad\lab13b Applying a Data Structure to a Database\lab13b Applying a Data Structure to a Database\lab13b Applying a Data Structure to a Database.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MoonJeongOokLab13bDvcSchedule13b.cpp
+         MoonJeongOokLab13bDvcSchedule13b.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Q\Desktop\NewRoad\lab13b Applying a Data Structure to a Database\Release\lab13b Applying a Data Structure to a Database.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Q\Desktop\NewRoad\lab13b Applying a Data Structure to a Database\Release\lab13b Applying a Data Structure to a Database.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Q\Desktop\NewRoad\lab13b Applying a Data Structure to a Database\Release\lab13b Applying a Data Structure to a Database.lib" /MACHINE:X86 /SAFESEH Release\MoonJeongOokLab13bDvcSchedule13b.obj
+         Generating code
+         1 of 242 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         lab13b Applying a Data Structure to a Database.vcxproj -> C:\Users\Q\Desktop\NewRoad\lab13b Applying a Data Structure to a Database\Release\lab13b Applying a Data Structure to a Database.exe
+     1>Done Building Project "C:\Users\Q\Desktop\NewRoad\lab13b Applying a Data Structure to a Database\lab13b Applying a Data Structure to a Database\lab13b Applying a Data Structure to a Database.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.71

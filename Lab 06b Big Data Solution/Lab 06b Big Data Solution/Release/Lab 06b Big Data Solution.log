@@ -1,0 +1,22 @@
+﻿Build started 2015-12-13 오전 10:49:36.
+     1>Project "C:\Users\Q\Desktop\NewRoad\Lab 06b Big Data Solution\Lab 06b Big Data Solution\Lab 06b Big Data Solution.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MoonJeongOokLab6bDvcSchedule6b.cpp
+         MoonJeongOokLab6bDvcSchedule6b.cpp
+     1>c:\users\q\desktop\newroad\lab 06b big data solution\lab 06b big data solution\MoonJeongOokLab04aDynamicArray.h(49): warning C4018: '<': signed/unsigned mismatch
+         c:\users\q\desktop\newroad\lab 06b big data solution\lab 06b big data solution\MoonJeongOokLab04aDynamicArray.h(43): note: while compiling class template member function 'DynamicArray<std::string>::DynamicArray(int)'
+         MoonJeongOokLab6bDvcSchedule6b.cpp(29): note: see reference to function template instantiation 'DynamicArray<std::string>::DynamicArray(int)' being compiled
+         MoonJeongOokLab6bDvcSchedule6b.cpp(27): note: see reference to class template instantiation 'DynamicArray<std::string>' being compiled
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Q\Desktop\NewRoad\Lab 06b Big Data Solution\Release\Lab 06b Big Data Solution.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Q\Desktop\NewRoad\Lab 06b Big Data Solution\Release\Lab 06b Big Data Solution.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Q\Desktop\NewRoad\Lab 06b Big Data Solution\Release\Lab 06b Big Data Solution.lib" /MACHINE:X86 /SAFESEH Release\MoonJeongOokLab6bDvcSchedule6b.obj
+         Generating code
+         1 of 246 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         Lab 06b Big Data Solution.vcxproj -> C:\Users\Q\Desktop\NewRoad\Lab 06b Big Data Solution\Release\Lab 06b Big Data Solution.exe
+     1>Done Building Project "C:\Users\Q\Desktop\NewRoad\Lab 06b Big Data Solution\Lab 06b Big Data Solution\Lab 06b Big Data Solution.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.56
